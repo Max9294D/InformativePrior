@@ -50,3 +50,6 @@ def PVE_test_noise(mlp, x_test, y_test):
     y_pred, _, _  = mlp(x_test)
     ptve = 1. - torch.var(y_pred - y_test) / torch.var(y_test)
     return ptve.item()
+
+def mean_list(L):
+  return sum(L) / len(L)
