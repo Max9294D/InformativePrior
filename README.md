@@ -1,4 +1,4 @@
-# This repo will be made private in 2 weeks
+# This repo will be made private in 2 weeks (I use it as illustration in a school project)
 - code taken from https://github.com/tycui/informative_prior
 - original add : yacht and concrete dataset + yacht and concrete dataset processing functions
 
