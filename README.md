@@ -1,3 +1,7 @@
+# This repo will be made private in 2 weeks
+code taken from https://github.com/tycui/informative_prior
+original add : yacht and concrete dataset + yacht and concrete dataset processing functions
+
 # Informative BNNs prior
 Code for "Informative Bayesian Neural Network Priors for Weak Signals"
 
